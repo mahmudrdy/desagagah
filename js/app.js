@@ -80,9 +80,9 @@ const strukturPemerintahan = [
 ];
 
 const contactInfo = [
-    { icon: 'fa-location-dot', color: '#047857', label: 'Alamat', value: 'Jl. Raya Gagah No. 1, Kec. Kadur, Kab. Pamekasan, Jawa Timur 69363' },
+    { icon: 'fa-location-dot', color: '#047857', label: 'Alamat', value: 'Jl Raya Desa Gagah, Kec. Kadur, Pamekasan 69363' },
     { icon: 'fa-phone', color: '#047857', label: 'Telepon', value: '+62 812 3456 7890' },
-    { icon: 'fa-envelope', color: '#047857', label: 'Email', value: 'info@gagah.desa.id' },
+    { icon: 'fa-envelope', color: '#047857', label: 'Email', value: 'gagahberbagi@gmail.com' },
     { icon: 'fa-clock', color: '#047857', label: 'Jam Kantor', value: 'Senin – Jumat, 08.00 – 15.00 WIB' }
 ];
 
