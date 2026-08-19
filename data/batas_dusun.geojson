@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Dusun Timur",
+        "desa": "Gagah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.565, -7.110],
+            [113.570, -7.110],
+            [113.570, -7.120],
+            [113.565, -7.120],
+            [113.565, -7.110]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Dusun Barat",
+        "desa": "Gagah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.560, -7.110],
+            [113.565, -7.110],
+            [113.565, -7.120],
+            [113.560, -7.120],
+            [113.560, -7.110]
+          ]
+        ]
+      }
+    }
+  ]
+}

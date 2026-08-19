@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SDN Gagah",
+        "kategori": "Sekolah",
+        "alamat": "Jl. Raya Gagah No",
+        "deskripsi": "Sekolah Dasar Negeri pusat pendidikan dasar dan pengembangan prestasi anak-anak Desa Gagah.",
+        "foto": "https://images.unsplash.com/photo-1577495508048-b635879837f1?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5953165667354,
+          -7.107679795597063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid Nurul Jadid",
+        "kategori": "Masjid",
+        "alamat": "Jl. Raya Gagah No. 10, Dusun Gagah",
+        "deskripsi": "Masjid jami' utama tempat ibadah shalat berjamaah dan pusat kegiatan keagamaan di Dusun Gagah.",
+        "foto": "https://images.unsplash.com/photo-1564769625905-50e93615e769?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59637502646353,
+          -7.105030206067713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PT. Bea Feaber (Produksi Cocofiber)",
+        "kategori": "UMKM",
+        "alamat": "Dusun Gagah, Desa Gagah",
+        "deskripsi": "Pusat kerajinan dan industri pengolahan serabut kelapa (cocofiber & cococoir) berstandar ekspor.",
+        "foto": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-industry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59683582731299,
+          -7.106435719720827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Gagah Dream Park",
+        "kategori": "Tempat Wisata",
+        "alamat": "Desa Gagah, Kadur",
+        "deskripsi": "Destinasi wisata keluarga dengan spot foto menarik, taman bermain anak, dan suasana alam pedesaan suci.",
+        "foto": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59555263438587,
+          -7.108068393020605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kerajinan Tikar Daun Siwalan (Taal)",
+        "kategori": "UMKM",
+        "alamat": "Dusun Gagah, Desa Gagah",
+        "deskripsi": "Sentra pengrajin tikar tradisional, tas, dan bungkus unik berbahan dasar daun siwalan asli Desa Gagah yang terkenal kuat dan awet.",
+        "foto": "https://images.unsplash.com/photo-1601614742491-b66822a105c0?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-leaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.598501234,
+          -7.103502341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Peternakan Ayam Petelur Gagah",
+        "kategori": "Peternakan",
+        "alamat": "Dusun Gagah, Desa Gagah",
+        "deskripsi": "Usaha peternakan ayam petelur modern yang bersih dan intensif untuk penyuplai telur segar berkualitas ke masyarakat serta pasar Pamekasan.",
+        "foto": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-egg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.601501234,
+          -7.101201234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Poskesdes & Posyandu Gagah",
+        "kategori": "Kesehatan",
+        "alamat": "Jl. Raya Gagah, Dusun Gagah",
+        "deskripsi": "Fasilitas pelayanan kesehatan masyarakat desa, posyandu rutin balita & ibu hamil, serta penanganan P3K warga.",
+        "foto": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=600&auto=format&fit=crop",
+        "icon": "fa-notes-medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59525394737855,
+          -7.108000653137268
+        ]
+      }
+    }
+  ]
+}

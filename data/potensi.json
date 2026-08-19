@@ -1,0 +1,159 @@
+{
+  "potensi": [
+    {
+      "id": 6,
+      "nama": "Gagah Dream Park",
+      "kategori": "Wisata",
+      "icon": "fa-tree",
+      "color": "#047857",
+      "deskripsi": "Destinasi wisata keluarga di Desa Gagah dengan berbagai wahana permainan dan spot foto yang menarik.",
+      "alamat": "Desa Gagah, Kadur",
+      "kontak": "+62 812 3456 0001",
+      "img": "assets/images/gagah_dream_park.jpg"
+    },
+    {
+      "id": 1,
+      "nama": "PT. Bea Feaber",
+      "kategori": "UMKM",
+      "icon": "fa-industry",
+      "color": "#047857",
+      "deskripsi": "Pusat kerajinan dan produksi serabut kelapa (cocofiber & cococoir) yang telah diekspor ke berbagai daerah.",
+      "alamat": "Dusun Gagah, Desa Gagah",
+      "kontak": "+62 812 0000 0001",
+      "img": "assets/images/bea_feaber.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Kerajinan Tikar Daun Siwalan (Taal)",
+      "kategori": "UMKM",
+      "icon": "fa-leaf",
+      "color": "#047857",
+      "deskripsi": "Kerajinan tangan khas warga Desa Gagah yang mengolah daun siwalan (daun taal) menjadi tikar tradisional, tas, dan anyaman berkualitas tinggi dan awet.",
+      "alamat": "Desa Gagah, Kadur",
+      "kontak": "+62 812 3456 0010",
+      "img": "assets/images/tikar_daun_siwalan.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Produksi Gula Aren (Gula Siwalan)",
+      "kategori": "UMKM",
+      "icon": "fa-cubes",
+      "color": "#047857",
+      "deskripsi": "Pengolahan nira pohon siwalan secara tradisional menjadi gula aren bermutu tinggi dengan cita rasa manis legit alami dan bebas bahan pengawet.",
+      "alamat": "Desa Gagah, Kadur",
+      "kontak": "+62 813 3456 0011",
+      "img": "assets/images/gula_aren.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Peternakan Ayam Petelur",
+      "kategori": "Peternakan",
+      "icon": "fa-egg",
+      "color": "#047857",
+      "deskripsi": "Usaha peternakan ayam petelur yang memasok kebutuhan telur segar berkualitas tinggi untuk warga desa dan pasar di wilayah Pamekasan.",
+      "alamat": "Desa Gagah, Kadur",
+      "kontak": "+62 815 3456 0012",
+      "img": "assets/images/ayam_petelur.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Pertanian Jagung & Tembakau",
+      "kategori": "Pertanian",
+      "icon": "fa-wheat-awn",
+      "color": "#047857",
+      "deskripsi": "Komoditas utama pertanian Desa Gagah. Lahan jagung dan tembakau yang luas menjadi sumber penghasilan utama warga.",
+      "alamat": "Seluruh wilayah Desa Gagah",
+      "kontak": "",
+      "img": "assets/images/jagung_tembakau.jpg"
+    },
+
+    {
+      "id": 8,
+      "nama": "Ternak Sapi & Kambing",
+      "kategori": "Peternakan",
+      "icon": "fa-cow",
+      "color": "#047857",
+      "deskripsi": "Usaha peternakan sapi dan kambing yang digeluti oleh sebagian besar warga Desa Gagah sebagai mata pencaharian sampingan.",
+      "alamat": "Desa Gagah",
+      "kontak": "",
+      "img": "assets/images/ternak_sapi.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Kerajinan Serabut Kelapa",
+      "kategori": "UMKM",
+      "icon": "fa-hands-holding",
+      "color": "#047857",
+      "deskripsi": "Industri rumahan pengolahan serabut kelapa menjadi produk bernilai tinggi seperti keset, tali, dan bahan kompos.",
+      "alamat": "Desa Gagah",
+      "kontak": "",
+      "img": "assets/images/serabut_kelapa.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Camping Ground",
+      "kategori": "Wisata",
+      "icon": "fa-campground",
+      "color": "#047857",
+      "deskripsi": "Nikmati pengalaman berkemah yang menyatu dengan alam, pemandangan perbukitan yang indah, dan udara segar pedesaan.",
+      "alamat": "Desa Gagah",
+      "kontak": "+62 812 3456 0003",
+      "img": "assets/images/camping_ground.jpg"
+    },
+    {
+      "id": 11,
+      "nama": "Waterpark Gagah Dream Park",
+      "kategori": "Wisata",
+      "icon": "fa-water",
+      "color": "#047857",
+      "deskripsi": "Destinasi kolam renang dan wahana air yang menyegarkan di dalam area Gagah Dream Park, cocok untuk rekreasi air bersama anak dan keluarga.",
+      "alamat": "Desa Gagah, Kadur",
+      "kontak": "+62 812 3456 0001",
+      "img": "assets/images/waterpark.jpg"
+    }
+  ],
+  "umkm": [
+    {
+      "nama": "Kerajinan Tikar Daun Siwalan (Taal)",
+      "kategori": "Kerajinan Tangan",
+      "pemilik": "Pengrajin Lokal Gagah",
+      "kontak": "+62 812 3456 0010",
+      "alamat": "Desa Gagah"
+    },
+    {
+      "nama": "Sentra Produksi Gula Aren (Siwalan)",
+      "kategori": "Kuliner & Pengolahan",
+      "pemilik": "Kelompok Warga",
+      "kontak": "+62 813 3456 0011",
+      "alamat": "Desa Gagah"
+    },
+    {
+      "nama": "Peternakan Ayam Petelur Gagah",
+      "kategori": "Peternakan",
+      "pemilik": "Peternak Lokal",
+      "kontak": "+62 815 3456 0012",
+      "alamat": "Desa Gagah"
+    },
+    {
+      "nama": "PT. Bea Feaber",
+      "kategori": "Produksi Cocofiber",
+      "pemilik": "Pengusaha Lokal",
+      "kontak": "+62 812 0000 0001",
+      "alamat": "Dusun Gagah"
+    },
+    {
+      "nama": "Warung Bu Siti",
+      "kategori": "Kuliner",
+      "pemilik": "Siti Aminah",
+      "kontak": "+62 813 0000 0002",
+      "alamat": "Dusun Barat"
+    },
+    {
+      "nama": "Toko Kelontong Pak Hasan",
+      "kategori": "Perdagangan",
+      "pemilik": "Hasan",
+      "kontak": "+62 815 0000 0003",
+      "alamat": "Dusun Gagah"
+    }
+  ]
+}
