@@ -534,16 +534,29 @@ function initContactMap() {
 
 function handleContactForm(e) {
     e.preventDefault();
-    const btn = e.target.querySelector('button[type="submit"]');
+    const form = e.target;
+
+    const nama = form.querySelector('input[type="text"]').value;
+    const hp = form.querySelector('input[type="tel"]').value;
+    const perihal = form.querySelector('select').value;
+    const pesan = form.querySelector('textarea').value;
+
+    const waNumber = '6287850458442';
+    const text = `Halo Admin Desa Gagah,%0A%0A*Nama:* ${nama}%0A*No HP:* ${hp || '-'}%0A*Perihal:* ${perihal}%0A*Pesan:*%0A${pesan}`;
+
+    window.open(`https://wa.me/${waNumber}?text=${text}`, '_blank');
+
+    const btn = form.querySelector('button[type="submit"]');
     const originalText = btn.innerHTML;
-    btn.innerHTML = '<i class="fa-solid fa-circle-check"></i> Pesan Terkirim!';
+    btn.innerHTML = '<i class="fa-solid fa-circle-check"></i> Mengalihkan ke WhatsApp...';
     btn.style.background = '#059669';
     btn.disabled = true;
+
     setTimeout(() => {
         btn.innerHTML = originalText;
-        btn.style.background = '#047857';
+        btn.style.background = '#2563EB';
         btn.disabled = false;
-        e.target.reset();
+        form.reset();
     }, 3000);
 }
 
